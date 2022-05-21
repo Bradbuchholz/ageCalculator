@@ -12,3 +12,7 @@ describe('galacticYears', () => {
   });
 });
 
+// test 2
+test('should correctly return age in Mercury years', () => {
+  expect(age.calc('Mercury')).toEqual(154.16)
+})
