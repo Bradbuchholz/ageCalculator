@@ -8,5 +8,8 @@ describe('galacticYears', () => {
 test('should correctly return a new age object with the age property and life expectancy', () => {
     expect(years.age).toEqual(37);
     expect(years.lifeExpectancy).toEqual(83);
-  });  
+  }); 
+test('should correctly return user age in Mercury years', () => {
+  expect(years.mercAge).toEqual(154);
+  }); 
 });
