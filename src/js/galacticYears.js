@@ -3,7 +3,7 @@ export default class galacticYears {
     this.age = age;
   }
 
-  cacl(planet) {
+  calc(planet) {
     let ageMercury;
     let ageVenus;
     let ageMars;
