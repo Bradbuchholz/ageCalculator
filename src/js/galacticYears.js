@@ -10,5 +10,5 @@ export default class galacticYears {
     this.venYearsLeftOrOver = Math.floor(Math.abs(this.lifeExpectancy - age)/.62);
     this.marsYearsLeftOrOver = Math.floor(Math.abs(this.lifeExpectancy - age)/1.88);
     this.jupYearsLeftOrOver = Math.floor(Math.abs(this.lifeExpectancy - age)/11.86);
-  };
-};
+  }
+}

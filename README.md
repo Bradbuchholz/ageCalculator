@@ -22,11 +22,13 @@ _This is an Epicodus project that shows what a users age would be on several dif
 * _Clone repository from GitHub to your desktop_
 * _Open the directory in your terminal and run npm install._
 * _Once that is complete, run npm run build_
+* _Test the functions with npm run test_
+* _Live server view avaiable with npm run start_
 
 
 ## Known Bugs
 
-* _No known bugs at this time_
+* _Application currently has no UI or way for a user to import their data_
 
 ## License
 
