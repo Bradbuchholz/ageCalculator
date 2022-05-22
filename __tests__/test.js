@@ -12,4 +12,7 @@ test('should correctly return a new age object with the age property and life ex
 test('should correctly return user age in Mercury years', () => {
   expect(years.mercAge).toEqual(154);
   }); 
+test('should correctly return user age in Venus years', () => {
+  expect(years.venAge).toEqual(59);
+  });
 });
