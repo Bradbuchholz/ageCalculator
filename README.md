@@ -1,8 +1,8 @@
-# _Mr.Roboger's Neighborhood_
+# _Super Galactic Age Calculator_
 
 #### By _**Brad Buchholz**_
 
-#### _A demonstration of array(s) and loop(s) with numbers and words!_
+#### _A demonstration of JavaScript classes, NodeJS, Webpack and testing with Jest_
 ## Technologies Used
 
 * _HTML_
@@ -14,16 +14,15 @@
 
 ## Description
 
-_This is a JavaScript program that will return an array from index 0 to the users inputted number. Once it returns the array, it will loop through the array and replace every number containing '3' with "Won't you be my neighbor?", every number that contains a 2 (but not a 3) with "Boop!", and every number that contains a 1 (but not a 3 or 2) with "Beep!"_
-
-## Tests
-
+_This is an Epicodus project that shows what a users age would be on several different planets, how long their life expectancy will be on those planets, and how long they've potentially lived past that age expectation._
 
 ## Setup/Installation Requirements
 
 * _Must have a working internet connection and a web browser_
 * _Clone repository from GitHub to your desktop_
-* _Open index.html file with your browser of choice (works with all major browsers including Chrome, Safari, Edge)_
+* _Open the directory in your terminal and run npm install._
+* _Once that is complete, run npm run build_
+
 
 ## Known Bugs
 
