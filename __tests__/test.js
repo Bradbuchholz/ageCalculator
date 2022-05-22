@@ -22,9 +22,9 @@ test('should correctly return user age in Jupiter years', () => {
   expect(years.jupAge).toEqual(3);
   });
 test('should correctly return expected years left to live on each planet', () => {
-  expect(years.mercYearsLeftOrOver).toEqual(345);
-  expect(years.venYearsLeftOrOver).toEqual(133);
-  expect(uears.marsYearsLeftOrOver).toEqual(44);
-  expect(years.jupYearsLeftOrOver).toEqual(6);
+  expect(years.mercYearsLeftOrOver).toEqual(191);
+  expect(years.venYearsLeftOrOver).toEqual(74);
+  expect(years.marsYearsLeftOrOver).toEqual(24);
+  expect(years.jupYearsLeftOrOver).toEqual(3);
   });
 });
