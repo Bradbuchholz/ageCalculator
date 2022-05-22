@@ -3,5 +3,6 @@ export default class galacticYears {
     this.age = age;
     this.lifeExpectancy = lifeExpectancy;
     this.mercAge = Math.floor(this.age/.24);
+    this.venAge = Math.floor(this.age/.62);
   }
 };
